@@ -1,0 +1,44 @@
+<html>
+	<head>
+	<meta name="viewpoint" content="width=device-width,initial-scale=1.0">
+	<link rel="stylesheet" href="style.css">
+
+		<title>FINAL PT IN COMPUTER 9</title>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	</head>
+<body>
+<div class=header>
+	<div class=logo><img src=ow.png class="image"></div>
+	<div class=nav>
+		<input type=checkbox class=toggler id=yaho>
+		<label for=yaho class=burger>
+		<span><i class="fa fa-bars"></i></span>
+		</label>
+		<ul class=menu>
+			<li><a href="intro.html">INTRO</a></li>
+			<li><a href="fav.html">FAVORITES</a></li>
+			<li><a href="#">HOBBIES</a></li>
+			<li><a href="index.html">BACK</a></li>
+		</ul>
+	</div>
+</div>
+<h1 align=center style="color:white;"><font face="Times New Roman" style size="30">HOBBIES</font></h1>
+<br>
+<ol>
+  <li align=center style="color:white;" style size="30">HOME EXERCISE</li>
+  <br>
+  <li align=center style="color:white;" style size="30">GAMING</li>
+  <br>
+  <li align=center style="color:white;" style size="30">LITERATURE</li>
+  <br>
+  <li align=center style="color:white;" style size="30">PUBLIC SPEAKING</li>
+</ol>
+<img src="hob.jpeg" alt="hob" class="center" width=300 height=400>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+</body>
+</html>
